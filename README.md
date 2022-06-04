@@ -13,4 +13,4 @@ It does not connect to a database as everything is local.
 
 - ```cd``` into the bookAPI folder and run the script from the terminal with ```npm start```
 
-- You should be able to see the program at [localhost:5000] in your browser
+- You should be able to see the program at localhost:5000 in your browser
